@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Write ups
+## Write Ups
 [Real World CI/CD integration with Veracode SCA Agent](sca_agent_ci_cd.md)
